@@ -1,0 +1,40 @@
+.userDetailsContainer {
+        height: 100%;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+
+.formcard {
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+        height: 400px;
+        width: 400px;
+        padding: 3%;
+}
+
+.formHeading {
+        width: 100%;
+        text-align: center;
+        font-size: 25px;
+        font-weight: 600;
+}
+
+.formSection {
+        margin-top: 20px;
+        width: 100%;
+        margin-left: 14%;
+}
+
+.inputField {
+        margin-bottom: 20px;
+}
+
+.formButton {
+        margin-left: 50px;
+        margin-bottom: 30px;
+}
+
+.bottomText {
+        margin-left: 20px;
+}
