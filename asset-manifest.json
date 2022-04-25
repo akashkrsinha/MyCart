@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MyCart/static/css/main.db5241d8.css",
+    "main.js": "/MyCart/static/js/main.78a8df62.js",
+    "static/media/MyCartLogo.png": "/MyCart/static/media/MyCartLogo.2d875e44347dfc743404.png",
+    "index.html": "/MyCart/index.html",
+    "main.db5241d8.css.map": "/MyCart/static/css/main.db5241d8.css.map",
+    "main.78a8df62.js.map": "/MyCart/static/js/main.78a8df62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db5241d8.css",
+    "static/js/main.78a8df62.js"
+  ]
+}
