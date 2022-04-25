@@ -12,7 +12,6 @@ export default function Login() {
     const navigation = useNavigate()
 
     function handelLogin() {
-
         const auth = getAuth();
         signInWithEmailAndPassword(auth, emailLogin.current.value, passwordLogin.current.value)
             .then((userCredential) => {

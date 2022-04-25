@@ -8,6 +8,7 @@ import SideBar from "./components/SideBar";
 import Signin from './components/Signin';
 import Signup from './components/Signup';
 import ContextWrapper from './context/ContextWrapper';
+import {app} from './firebaseConfig'
 
 
 export default function App() {

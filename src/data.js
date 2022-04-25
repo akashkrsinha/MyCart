@@ -38,7 +38,7 @@ const data = {
         },
         {
             _id: '10',
-            name: 'Anti-Hair Fall Kit',
+            name: 'Hair Fall Kit',
             category: 'Hair Care',
             image: '/images/p4.jpg',
             price: 78,
@@ -50,7 +50,7 @@ const data = {
         },
         {
             _id: '11',
-            name: 'Body Care Kit',
+            name: 'Body Kit',
             category: 'Skin care',
             image: '/images/p5.jpg',
             price: 65,
@@ -62,7 +62,7 @@ const data = {
         },
         {
             _id: '12',
-            name: 'Baby Essential Kit',
+            name: 'Baby Kit',
             category: 'baby Products',
             image: '/images/p6.jpg',
             price: 139,
@@ -86,7 +86,7 @@ const data = {
         },
         {
             _id: '14',
-            name: 'Hair Conditioner',
+            name: 'Hair Care',
             category: 'Hair Care',
             image: '/images/p55.jpg',
             price: 65,
@@ -98,7 +98,7 @@ const data = {
         },
         {
             _id: '15',
-            name: 'Onion Hair Serum',
+            name: 'Hair Serum',
             category: 'Hair Care',
             image: '/images/p66.jpg',
             price: 139,
@@ -134,7 +134,7 @@ const data = {
         },
         {
             _id: '3',
-            name: 'Lacoste Free Shirt',
+            name: 'FreeSize Shirt',
             category: 'Shirts',
             image: '/images/p16.jpg',
             price: 220,

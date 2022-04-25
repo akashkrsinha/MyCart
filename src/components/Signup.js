@@ -14,7 +14,6 @@ export default function Signup() {
 
 
     async function handelRegister() {
-
         const auth = getAuth();
         try {
             let user = await createUserWithEmailAndPassword(auth, emailRegister.current.value, passwordRegister.current.value)
